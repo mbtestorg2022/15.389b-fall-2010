@@ -30,7 +30,7 @@ Stylized view of entrepreneurship
 {{< tdopen >}}
 
 
-McMillan, John, and Christopher Woodruff. "The Central Role of Entrepreneurs in Transition Economies." _Journal of Economic Perspectives_ 16, no. 3 (2002): 153-70. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.aeaweb.org/articles?id=10.1257/089533002760278767))
+McMillan, John, and Christopher Woodruff. "The Central Role of Entrepreneurs in Transition Economies." _Journal of Economic Perspectives_ 16, no. 3 (2002): 153-70. ([PDF](https://www.aeaweb.org/articles?id=10.1257/089533002760278767))
 
 Glaeser, Edward L., and William R. Kerr. "[The Secret to Job Growth: Think Small](http://hbr.org/2010/07/the-secret-to-job-growth-think-small/ar/1)." Harvard Business Review Magazine, July 2010.
 
@@ -118,7 +118,7 @@ Nanda, Ramana, and Toby Stuart. "KiOR: Catalyzing Clean Energy." Harvard Busines
 Entering a market in flux
 {{< tdclose >}}
 {{< tdopen >}}
-Barnett, Katie, Anand Mohanrangan, Teru Tanaka, and Yipeng Zhao. "Conexia: Entering the U.S. Market." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 10-103, July 13, 2010. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB](https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-074%20PPS%20tv%20Lehrich.pdf))
+Barnett, Katie, Anand Mohanrangan, Teru Tanaka, and Yipeng Zhao. "Conexia: Entering the U.S. Market." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 10-103, July 13, 2010. ([PDF - 1.2MB](https://mitsloan.mit.edu/LearningEdge/CaseDocs/08-074%20PPS%20tv%20Lehrich.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +160,7 @@ Sahlman, William A. "Endeavor: Creating a Global Movement for High-Impact Entrep
 Working in a G-Lab project
 {{< tdclose >}}
 {{< tdopen >}}
-Lehrich, M. Jonathan, Paul John Paredes, and Ramesh Ravikumar. "Compsis at a Crossroads." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 07-044, December 15, 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://mitsloan.mit.edu/LearningEdge/CaseDocs/07-044-compsis-at-a-crossroads-lehrich.pdf))
+Lehrich, M. Jonathan, Paul John Paredes, and Ramesh Ravikumar. "Compsis at a Crossroads." MIT Sloan School of Management Case. MIT Sloan Teaching Innovation Resources. Case: 07-044, December 15, 2009. ([PDF](https://mitsloan.mit.edu/LearningEdge/CaseDocs/07-044-compsis-at-a-crossroads-lehrich.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
